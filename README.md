@@ -1,5 +1,5 @@
 # LiquidSwap SDK Fork
+LiquidSwap SDK fixes for creating pull requests (each fix is in a separate branch).
 
-Fixes of the LiquidSwap SDK for making pull requests.
-
+# Result
 All pull requests were approved by the developers and merged into the main branch of liquidswap SDK.
